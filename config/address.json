@@ -1,0 +1,29 @@
+{
+    "send_packet_adr": "0x843AD0",
+    "base_adr": "0xE7D398",
+    "game_ofs": "0x1C",
+
+    "mobs_structure_ofs": "0x1C",
+    "mob_list_ofs": "0x20",
+    "mob_list_count_ofs": "0x18",
+    "mob_list_array_ofs": "0x5C",
+    "mob_structure_size": "0x4",
+    "mob_type_ofs": "0xB4",
+    "mob_id_ofs": "0x11C",
+    "mob_wid_ofs": "0x114",
+    "mob_name_ofs": "0x260",
+    "mob_distance_ofs": "0x284",
+    "mob_loc_x_ofs": "0x3C",
+    "mob_loc_y_ofs": "0x44",
+    "mob_loc_z_ofs": "0x40",
+
+    "player_structure_ofs": "0x34",
+    "player_hp_ofs": "0x4CC",
+    "player_mp_ofs": "0x4D0",
+    "player_name_ofs": "0x80C",
+    "player_id_ofs": "0x4B8",
+    "player_lvl_ofs": "0x4C4",
+    "player_loc_x_ofs": "0x3C",
+    "player_loc_y_ofs": "0x44",
+    "player_loc_z_ofs": "0x40"
+}

@@ -1,0 +1,20 @@
+{
+    "target": {
+        "bytes": [
+            "0x02", "0x00", "0x00", "0x00", "0x00", "0x00"
+        ],
+        "params": {
+            "mob_wid": {
+                "range": {
+                    "offset": 2,
+                    "size": 4
+                }
+            }
+        }
+    },
+    "attack_target": {
+        "bytes": [
+            "0x03", "0x00", "0x00"
+        ]
+    }
+}

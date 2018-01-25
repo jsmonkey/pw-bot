@@ -1,0 +1,9 @@
+# build artifacts
+build
+
+# ide
+.vscode
+.vs
+CMakeSettings.json
+CppProperties.json
+

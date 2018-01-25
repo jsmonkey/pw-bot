@@ -1,0 +1,6 @@
+[requires]
+jsonformoderncpp/3.0.1@vthiery/stable
+Boost.Algorithm/1.65.1@bincrafters/stable
+
+[generators]
+cmake
